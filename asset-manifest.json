@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-covid-api-project/static/css/main.e24948c7.css",
+    "main.js": "/react-covid-api-project/static/js/main.82b04723.js",
+    "static/js/787.641f3a36.chunk.js": "/react-covid-api-project/static/js/787.641f3a36.chunk.js",
+    "static/media/logo.svg": "/react-covid-api-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-covid-api-project/index.html",
+    "main.e24948c7.css.map": "/react-covid-api-project/static/css/main.e24948c7.css.map",
+    "main.82b04723.js.map": "/react-covid-api-project/static/js/main.82b04723.js.map",
+    "787.641f3a36.chunk.js.map": "/react-covid-api-project/static/js/787.641f3a36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e24948c7.css",
+    "static/js/main.82b04723.js"
+  ]
+}
