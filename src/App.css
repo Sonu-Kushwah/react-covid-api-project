@@ -1,0 +1,28 @@
+.covid{
+  padding: 45px 15px;
+  text-align: center;
+  color: white;
+  margin-bottom: 26px;
+  height: 200px;
+}
+.covid p{
+  text-align: center;
+}
+#countery{
+  background-color: blueviolet;
+}
+#recoverd{
+  background-color: green;
+}
+#confirm{
+  background-color: brown;
+}
+#death{
+  background-color: burlywood;
+}
+#active{
+  background-color: chocolate;
+}
+#update{
+  background-color: cornflowerblue;
+}
